@@ -1,11 +1,19 @@
 <?php
 
-namespace Tests;
+namespace Tests\Unit;
 
-use Laravel\BrowserKitTesting\TestCase as BaseTestCase;
+use Tests\TestCase;
+use Illuminate\Foundation\Testing\RefreshDatabase;
 
-abstract class TestCase extends BaseTestCase
+class ExampleTest extends TestCase
 {
-    use CreatesApplication;
-    public $baseUrl = 'http://deelgood.com.dev';
+    /**
+     * A basic test example.
+     *
+     * @return void
+     */
+    public function testBasicTest()
+    {
+        $this->assertTrue(true);
+    }
 }
