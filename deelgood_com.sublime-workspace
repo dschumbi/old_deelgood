@@ -1,0 +1,628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Test",
+				"Testing"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"col",
+				"col-6 \tBootstrap 4 Class"
+			],
+			[
+				"auc",
+				"auction"
+			],
+			[
+				"categ",
+				"category_id"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"prope",
+				"properties"
+			],
+			[
+				"get_meth",
+				"get_class_methods"
+			],
+			[
+				"geocoe",
+				"geocodes"
+			],
+			[
+				"ge",
+				"geocodes"
+			],
+			[
+				"tr",
+				"trader"
+			],
+			[
+				"R",
+				"Request"
+			],
+			[
+				"off",
+				"offset-3 \tBootstrap 4 Class"
+			],
+			[
+				"float-",
+				"float-right \tBootstrap 4 Class"
+			],
+			[
+				"dropdo",
+				"dropdown-item \tBootstrap 4 Class"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"user",
+				"userCategories"
+			],
+			[
+				"Categ",
+				"Category"
+			],
+			[
+				"Auc",
+				"Auctions"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"info",
+				"infoUserAboutEmail"
+			],
+			[
+				"fa",
+				"factory"
+			],
+			[
+				"cate",
+				"category_id"
+			],
+			[
+				"col-",
+				"col-8 \tBootstrap 4 Class"
+			],
+			[
+				"au",
+				"auction"
+			],
+			[
+				"col-sm",
+				"col-sm-4 \tBootstrap 4 Class"
+			],
+			[
+				"alert",
+				"alert:danger\tdanger"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"btn-ter",
+				"btn-outline-primary \tBootstrap 4 Class"
+			],
+			[
+				"A",
+				"AuctionsController"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"bs3-submi",
+				"bs3-input:submit\tbs3-input-submit"
+			],
+			[
+				"bs3-in",
+				"bs3-input:email:h\tbs3-input-email-h"
+			],
+			[
+				"bs3-form",
+				"bs3-form:label\tbs3-form-label"
+			],
+			[
+				"ml-",
+				"ml-auto \tBootstrap 4 Class"
+			],
+			[
+				"bs3-f",
+				"bs3-form:label\tbs3-form-label"
+			],
+			[
+				"bs3-e",
+				"bs3-input:email\tbs3-input-email"
+			],
+			[
+				"bs",
+				"bs3-form\tbs3-form"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"con",
+				"content"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"gli",
+				"GLI: Select Project"
+			],
+			[
+				"push",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"github: pl",
+				"Github: Plugin Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippetma",
+				"SnippetMaker: Delete Snippet"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"phpunit",
+				"Sublime PHPUnit: Run This File"
+			],
+			[
+				"proje",
+				"Project: Edit Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"bran",
+				"Git: New Branch"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"make:c",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"migr",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"make",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"Laravel make",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"make:con",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 492.0
+	},
+	"console":
+	{
+		"height": 207.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Projekte/deelgood.com/.gitlab-ci.yml",
+		"/Volumes/Projekte/deelgood.com/.env.example",
+		"/Volumes/Projekte/deelgood.com/composer.json",
+		"/Volumes/Projekte/deelgood.com/tests/Unit/ExampleTest.php",
+		"/Volumes/Projekte/deelgood.com/Envoy.blade.php",
+		"/Volumes/Projekte/deelgood.com/Dockerfile",
+		"/Volumes/Projekte/deelgood.com/tests/TestCase.php",
+		"/Volumes/Projekte/deelgood.com/tests/Feature/ExampleTest.php",
+		"/Volumes/Projekte/deelgood.com/.env",
+		"/Volumes/Projekte/deelgood.com/package.json",
+		"/Volumes/Projekte/deelgood.com/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php",
+		"/Volumes/Projekte/deelgood.com/routes/web.php",
+		"/Volumes/Projekte/deelgood.com/public/css/app.css",
+		"/Volumes/Projekte/deelgood.com/resources/views/offers/showAll.blade.php",
+		"/Volumes/Projekte/deelgood.com/server.php",
+		"/Volumes/PROJEKTE/deelgood.com/resources/lang/de/message.php",
+		"/Volumes/Projekte/deelgood.com/config/money.php",
+		"/Volumes/Projekte/deelgood.com/config/app.php",
+		"/Volumes/Projekte/deelgood.com/public/css/sticky.css",
+		"/Users/heikosudar/Library/Application Support/Sublime Text 3/Packages/GitlabIntegrate/messages/intro.txt",
+		"/Users/heikosudar/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/heikosudar/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/heikosudar/Library/Application Support/Sublime Text 3/Packages/User/GitlabIntegrate.sublime-settings",
+		"/Users/heikosudar/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/heikosudar/Library/Application Support/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/Volumes/Projekte/deelgood.com/resources/views/layouts/nav.blade.php",
+		"/Volumes/Projekte/deelgood.com/config/services.php",
+		"/Volumes/Projekte/deelgood.com/app/Providers/AuthServiceProvider.php",
+		"/Volumes/Projekte/deelgood.com/resources/views/auth/loginform.blade.php",
+		"/Volumes/Projekte/deelgood.com/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Volumes/Projekte/deelgood.com/app/Http/Middleware/EncryptCookies.php",
+		"/Volumes/Projekte/deelgood.com/app/Http/Controllers/OffersController.php",
+		"/Volumes/Projekte/deelgood.com/app/Http/Controllers/RegistrationController.php",
+		"/Volumes/Projekte/deelgood.com/app/User.php",
+		"/Volumes/Projekte/deelgood.com/app/Http/Controllers/SessionsController.php",
+		"/Volumes/Projekte/deelgood.com/app/Http/Controllers/Auth/LoginController.php",
+		"/Volumes/Projekte/deelgood.com/app/Http/Controllers/AuctionsController.php",
+		"/Volumes/Projekte/deelgood.com/config/session.php",
+		"/Volumes/Projekte/deelgood.com/storage/framework/sessions/A5sB4R6NHaoOrRqNXy6ofspGN8x3TRKWrCWxeHbD",
+		"/Volumes/Projekte/deelgood.com/resources/views/auth/login.blade.php",
+		"/Volumes/Projekte/deelgood.com/app/Providers/EventServiceProvider.php",
+		"/Volumes/Projekte/deelgood.com/resources/views/auctions/show.blade.php",
+		"/Volumes/Projekte/deelgood.com/resources/views/auctions/showAllBuyer.blade.php",
+		"/Volumes/Projekte/deelgood.com/resources/views/emails/auctions/notifyTradersForNewAuction.blade.php",
+		"/Volumes/Projekte/deelgood.com/resources/views/layouts/footerscripts.blade.php",
+		"/Volumes/Projekte/deelgood.com/resources/views/offers/new.blade.php",
+		"/Volumes/Projekte/deelgood.com/resources/views/layouts/page.blade.php",
+		"/Volumes/Projekte/deelgood.com/resources/views/layouts/cover.blade.php",
+		"/Volumes/Projekte/deelgood.com/app/Mail/SendOverviewLinkToBuyer.php",
+		"/Volumes/Projekte/deelgood.com/resources/views/emails/auctions/sendOverviewLinkToBuyer.blade.php",
+		"/Volumes/Projekte/deelgood.com/app/Mail/NotifyTradersForNewAuction.php",
+		"/Volumes/Projekte/deelgood.com/config/mail.php",
+		"/Volumes/Projekte/deelgood.com/database/migrations/2017_11_28_200707_add_hash_to_auction.php",
+		"/Users/heikosudar/Desktop/deelgood.com/resources/views/auctions/show.blade.php",
+		"/Users/heikosudar/Desktop/deelgood.com/resources/views/auctions/offers/base.blade.php",
+		"/Users/heikosudar/Desktop/deelgood.com/resources/views/auctions/offers/properties.blade.php",
+		"/Volumes/NO NAME/deelgood.com/.env",
+		"/Volumes/NO NAME/deelgood.com/config/app.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Http/Controllers/Auth/LoginController.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/offers/properties.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/offers/base.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Http/Controllers/AuctionsController.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/routes/web.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/show.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/offers/additionalInfo.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/emails/auctions/notifyTradersForNewAuction.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/traders/categories.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/showAll.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Offer.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Property.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/User.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Http/Controllers/OffersController.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/database/migrations/2017_11_20_100523_create_offer_property_table.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auth/categories.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Auction.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/modify.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/auctionOffers.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Repositories/Auctions.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Category.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/database/migrations/2017_11_18_223154_create_properties_table.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Http/Controllers/PropertiesController.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/database/migrations/2017_11_18_223306_create_auction_property_table.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/database/migrations/2017_11_12_080301_create_traders_table.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/layouts/page.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/layouts/app.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/public/js/traders.js",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/public/js/productproperties.js",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/edit.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auth/addressdata.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/index.blade.php",
+		"/Users/heikosudar/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/confirmStartOfAuction.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/database/migrations/2017_11_18_144625_add_fields_to_auctions.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/database/migrations/2017_11_18_143625_add_fields_to_auction.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/database/migrations/2017_09_26_200913_add_start_to_auctions.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/infoUserAboutEmail.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/assets/sass/_custom.scss",
+		"/Users/heikosudar/Library/Application Support/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Http/Requests/AuctionRequest.php",
+		"/Users/heikosudar/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/heikosudar/Library/Application Support/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auctions/infotext.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/composer.json",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/database/migrations/2017_11_08_203412_add_details_to_users.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/database/migrations/2017_11_17_063933_change_category_in_auctions.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Trader.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Http/Controllers/UserController.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/app/Http/Controllers/TradersController.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auth/traders.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auth/edit.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auth/tradersModal.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/config/app.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/layouts/footerscripts.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/vendor/twbs/bootstrap/js/tests/vendor/qunit.js",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/traders.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/assets/js/app.js",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/layouts/nav.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/public/css/bootstrap-datetimepicker.css",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/public/js/bootstrap-datetimepicker.js",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/assets/js/bootstrap.js",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/webpack.mix.js",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/public/js/moment.js",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/layouts/footer.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/layouts/cover.blade.php",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/assets/sass/app.scss",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/assets/sass/_jumbotron.scss",
+		"/Volumes/Datenplatte/Projekte/deelgood.com/resources/views/auth/login.blade.php"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"auctions"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 111.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 169.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"use",
+				"app/User.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test",
+				"Test"
+			],
+			[
+				"AuthSP",
+				"AuthServiceProvider"
+			],
+			[
+				"register",
+				"register"
+			]
+		],
+		"width": 889.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 441.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
