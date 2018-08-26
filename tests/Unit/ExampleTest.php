@@ -16,6 +16,6 @@ class ExampleTest extends TestCase
     public function testBasicTest()
     {
         $this->visit('/')
-            ->see('Deelgood');
+            ->see('Jetzt anfragen');
     }
 }
