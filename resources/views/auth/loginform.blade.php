@@ -54,6 +54,19 @@
                         </a>
                     </div>
                 </div>
+
+                <div class="form-group">
+
+                    <label for="name" class="col-md-4 control-label">Login With</label>
+                    <div class="col-md-6">
+                        <a href="{{ url('login/facebook') }}" class="btn btn-social-icon btn-facebook"><i class="fab fa-facebook"></i></a>
+                        <a href="{{ url('login/twitter') }}" class="btn btn-social-icon btn-twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="{{ url('login/google') }}" class="btn btn-social-icon btn-google"><i class="fab fa-google"></i></a>
+                        <a href="{{ url('login/linkedin') }}" class="btn btn-social-icon btn-linkedin"><i class="fab fa-linkedin"></i></a>
+                        <a href="{{ url('login/github') }}" class="btn btn-social-icon btn-github"><i class="fab fa-github"></i></a>
+                        <a href="{{ url('login/bitbucket') }}" class="btn btn-social-icon btn-bitbucket"><i class="fab fa-bitbucket"></i></a>
+                    </div>
+                </div>
             </form>
         </div>
 </div>

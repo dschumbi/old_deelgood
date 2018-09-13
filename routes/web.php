@@ -50,3 +50,7 @@ Route::delete('/users/trader/{trader}', 'TradersController@destroy')->name('dest
 
 Route::put('/users/update', 'UserController@update');
 Auth::routes();
+
+Route::get('/login/{social}', 'Auth\LoginController@socialLogin')->where('social', 'twitter|facebook|linkedin|google|github|bitbucket');
+
+Route::get('/login/{social}/callback', 'Auth\LoginController@handleProviderCallback')->where('social', 'twitter|facebook|linkedin|google|github|bitbucket');
