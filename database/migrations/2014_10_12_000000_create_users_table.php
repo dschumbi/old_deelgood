@@ -6,12 +6,12 @@ use Illuminate\Database\Migrations\Migration;
 
 class CreateUsersTable extends Migration
 {
-    protected $PROPERTY;
+    /*protected $PROPERTY;
 
     public function __construct($PROPERTY)
     {
         $this->PROPERTY = $PROPERTY;
-    }
+    }*/
 
     /**
      * Run the migrations.
