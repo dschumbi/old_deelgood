@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://deelgood.com.dev'),
+    'url' => env('APP_URL', 'http://www.sushistation.de'),
 
     /*
     |--------------------------------------------------------------------------
