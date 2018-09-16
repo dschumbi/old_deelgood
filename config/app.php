@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://www.sushistation.de'),
+    'url' => env('APP_URL', 'https://www.sushistation.de'),
 
     /*
     |--------------------------------------------------------------------------
