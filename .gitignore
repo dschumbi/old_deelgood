@@ -1,3 +1,5 @@
-/Volumes/PROJEKTE/deelgood.com/config/
-/Volumes/PROJEKTE/deelgood.com/.env
-/Volumes/PROJEKTE/deelgood.com/.env.example
+.env
+.env.example
+._deelgood_com.sublime-project
+._deelgood_com.sublime-workspace
+deelgood.com.zip

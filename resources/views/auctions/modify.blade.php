@@ -87,7 +87,7 @@
     </div>
     <div class="col">
         <div class="form-row">
-            <label class="col-12 col-form-label" for="category">Kategory</label>
+            <label class="col-12 col-form-label" for="category">Kategorie</label>
             <div class="col-12">
                 <input type="hidden" name="category_id" value="{{ $auction->category->id }}">
               <h6>{{ $auction->category->name }}</h6>
