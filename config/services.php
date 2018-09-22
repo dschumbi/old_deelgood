@@ -38,13 +38,13 @@ return [
     'facebook' => [
         'client_id' => '1120224634748024', //Facebook API
         'client_secret' => '7303691d807eaff92bbb1657b96b1e', //Facebook Secret
-        'redirect' => 'http://deelgood.com.dev/login/facebook/callback',
+        'redirect' => 'https://www.sushistation.de/login/facebook/callback',
     ],
 
     'github' => [
         'client_id' => env('d372a1a7f9d2280f23c9'),         // Your GitHub Client ID
         'client_secret' => env('531a8bf2b01f77799cd73d5753cf164acae5f8b5'), // Your GitHub Client Secret
-        'redirect' => 'http://deelgood.com.dev/login/github/callback',
+        'redirect' => 'https://www.sushistation.de/login/github/callback',
     ],
 
 ];
